@@ -1,0 +1,22 @@
+{
+  "name": "node.js-flashcard-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlixAkhribi/Node.JS-flashcard-game.git"
+  },
+  "author": "Alix Akhribi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlixAkhribi/Node.JS-flashcard-game/issues"
+  },
+  "homepage": "https://github.com/AlixAkhribi/Node.JS-flashcard-game#readme",
+  "dependencies": {
+    "inquirer": "^4.0.0"
+  }
+}
